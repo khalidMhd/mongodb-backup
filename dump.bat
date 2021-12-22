@@ -1,0 +1,1 @@
+mongodump --db=polio --archive=./polio.gzip --gzip
