@@ -5,6 +5,9 @@ const backup = require('./backup');
 const cmd = require('node-cmd');
 const schedule = require('node-schedule');
 
+//imort
+//mongorestore --host=localhost --port=27017 --gzip --archive=expertsystem.gzip
+
 // var spawn = require('child_process').spawn,
 // ls = spawn('cmd.exe', ['/c', 'dump.bat']);
 
